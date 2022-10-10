@@ -1,0 +1,5 @@
+GraphNNCode是改动不大的word2vec版本
+GraphNNCode2是用来跑实验一、二的 训练集和测试集是自动划分，输出f1
+GraphNNCode3是用来跑实验三，部署到实际项目中，训练集和测试集不一样，输出检测出来的函数名
+GraphNNCode4服务器上的code2
+GraphNNCode5是服务器上的nni的code2

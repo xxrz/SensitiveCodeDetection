@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7da09d96-abdc-4209-b980-5c28988cccc1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GraphNNCode$scatter.coverage" NAME="scatter Coverage Results" MODIFIED="1574174898505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/paper_figure/graph" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$data_lstm.coverage" NAME="data_lstm Coverage Results" MODIFIED="1572860005079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Me" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$feaMat__1_.coverage" NAME="feaMat (1) Coverage Results" MODIFIED="1583567631242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Me" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$utils_my_graphs_newer.coverage" NAME="utils_my_graphs_newer Coverage Results" MODIFIED="1584045961631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_my_vec.coverage" NAME="train_my_vec Coverage Results" MODIFIED="1556089977268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$demData.coverage" NAME="demData Coverage Results" MODIFIED="1568796300340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_my_vec_multi.coverage" NAME="train_my_vec_multi Coverage Results" MODIFIED="1563193727246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$New_graphselect.coverage" NAME="New_graphselect Coverage Results" MODIFIED="1578015673409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$New.coverage" NAME="New Coverage Results" MODIFIED="1584947419550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$util_my_vecs_multi.coverage" NAME="util_my_vecs_multi Coverage Results" MODIFIED="1563161500217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_my_graphs.coverage" NAME="train_my_graphs Coverage Results" MODIFIED="1554968165347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$VulDeePacker_Single.coverage" NAME="VulDeePacker_Single Coverage Results" MODIFIED="1564036706571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$feaMat.coverage" NAME="feaMat Coverage Results" MODIFIED="1583311845852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/New/featureMatrix/featureMatrix" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_my_vec_fit.coverage" NAME="train_my_vec_fit Coverage Results" MODIFIED="1556106413326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$multi_train_word2vec.coverage" NAME="multi_train_word2vec Coverage Results" MODIFIED="1555415473443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$multi_train_my_graphs.coverage" NAME="multi_train_my_graphs Coverage Results" MODIFIED="1555423741695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$print.coverage" NAME="print Coverage Results" MODIFIED="1551850664973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$data_lstm_newa.coverage" NAME="data_lstm_newa Coverage Results" MODIFIED="1577953045760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Me" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$data_lstm_new.coverage" NAME="data_lstm_new Coverage Results" MODIFIED="1583309905722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Me" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_word2vec.coverage" NAME="train_word2vec Coverage Results" MODIFIED="1562939768335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_my_graphs_f1_newer.coverage" NAME="train_my_graphs_f1_newer Coverage Results" MODIFIED="1572337519083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_word2vec_vd.coverage" NAME="train_word2vec_vd Coverage Results" MODIFIED="1563443035474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$data_lstm_new_new.coverage" NAME="data_lstm_new_new Coverage Results" MODIFIED="1584093538669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Me" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$dataDel.coverage" NAME="dataDel Coverage Results" MODIFIED="1572611134828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Me" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$word2vec.coverage" NAME="word2vec Coverage Results" MODIFIED="1562574686838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/anaconda/envs/py_project/Lib/site-packages/gensim/models" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_word2vec_vd_multi.coverage" NAME="train_word2vec_vd_multi Coverage Results" MODIFIED="1556092935252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$fen.coverage" NAME="fen Coverage Results" MODIFIED="1572443953280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/ours/saveData" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectId" id="1ZWJzD12x6ps5XUJe0Jnq9CgIai" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556334232476" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../补充数据实验/5vuldeepecker" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.22254616" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportQtDebugging" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Github\CCS19\Curre\GNN\GraphNNCode\GraphNNCode\benchmark\ours\saveData" />
+      <recent name="F:\Github\CCS19\Curre\GNN\GraphNNCode\GraphNNCode\benchmark\ours" />
+      <recent name="F:\Github\CCS19\Curre\GNN\GraphNNCode\GraphNNCode\Me\trueg" />
+      <recent name="E:\GraphNNCode\Me" />
+      <recent name="C:\Users\star\IdeaProjects\GraphNNCode" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XRZ\pycharmProject\test\GraphNNCode" />
+      <recent name="F:\Github\CCS19\Curre\GNN\GraphNNCode\GraphNNCode\Me" />
+      <recent name="F:\Github\CCS19\Curre\GNN\GraphNNCode\GraphNNCode" />
+      <recent name="E:\GraphNNCode\Me" />
+      <recent name="E:\GraphNNCode\Me\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.New">
+    <configuration name="New" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true">
+      <module name="GraphNNCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_lstm_new_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphNNCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Me" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Me/data_lstm_new_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="feaMat (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphNNCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Me" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Me/feaMat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphNNCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils_my_graphs_newer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphNNCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils_my_graphs_newer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.New" />
+      <item itemvalue="Python.feaMat (1)" />
+      <item itemvalue="Python.data_lstm_new_new" />
+      <item itemvalue="Python.utils_my_graphs_newer" />
+      <item itemvalue="Python.t" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.New" />
+        <item itemvalue="Python.t" />
+        <item itemvalue="Python.data_lstm_new_new" />
+        <item itemvalue="Python.utils_my_graphs_newer" />
+        <item itemvalue="Python.feaMat (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7da09d96-abdc-4209-b980-5c28988cccc1" name="Default Changelist" comment="" />
+      <created>1551275400398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551275400398</updated>
+      <workItem from="1551275402767" duration="1708000" />
+      <workItem from="1551516973791" duration="1165000" />
+      <workItem from="1551849601018" duration="1906000" />
+      <workItem from="1553168521168" duration="2381000" />
+      <workItem from="1553174567193" duration="692000" />
+      <workItem from="1553239564563" duration="15375000" />
+      <workItem from="1553303779052" duration="4073000" />
+      <workItem from="1553315125976" duration="7915000" />
+      <workItem from="1553343405811" duration="6367000" />
+      <workItem from="1553475783988" duration="11301000" />
+      <workItem from="1553574888018" duration="12198000" />
+      <workItem from="1553602863448" duration="592000" />
+      <workItem from="1553648440205" duration="4521000" />
+      <workItem from="1553695032434" duration="212000" />
+      <workItem from="1553746847837" duration="1732000" />
+      <workItem from="1554181891023" duration="1056000" />
+      <workItem from="1554210410532" duration="678000" />
+      <workItem from="1554275067614" duration="1062000" />
+      <workItem from="1554716538663" duration="361000" />
+      <workItem from="1554720390057" duration="747000" />
+      <workItem from="1554721369834" duration="1510000" />
+      <workItem from="1554729431799" duration="5011000" />
+      <workItem from="1554811885806" duration="979000" />
+      <workItem from="1554868219012" duration="2760000" />
+      <workItem from="1554964749799" duration="3083000" />
+      <workItem from="1555078519118" duration="1132000" />
+      <workItem from="1555118662212" duration="4473000" />
+      <workItem from="1555138796064" duration="5618000" />
+      <workItem from="1555146288755" duration="1159000" />
+      <workItem from="1555315406205" duration="3408000" />
+      <workItem from="1555337811283" duration="717000" />
+      <workItem from="1555413391140" duration="11666000" />
+      <workItem from="1555484689239" duration="8870000" />
+      <workItem from="1555572846275" duration="3194000" />
+      <workItem from="1555664141072" duration="21795000" />
+      <workItem from="1555917683127" duration="3590000" />
+      <workItem from="1555945202764" duration="766000" />
+      <workItem from="1555988589455" duration="1723000" />
+      <workItem from="1556004738954" duration="35774000" />
+      <workItem from="1556178599898" duration="1977000" />
+      <workItem from="1556265697461" duration="2360000" />
+      <workItem from="1556330138137" duration="2756000" />
+      <workItem from="1556334360338" duration="185000" />
+      <workItem from="1556334702222" duration="3018000" />
+      <workItem from="1556348436451" duration="603000" />
+      <workItem from="1556540847607" duration="894000" />
+      <workItem from="1556619570197" duration="7870000" />
+      <workItem from="1556995785201" duration="2247000" />
+      <workItem from="1557056127203" duration="2178000" />
+      <workItem from="1557195016613" duration="734000" />
+      <workItem from="1557215012180" duration="10395000" />
+      <workItem from="1557280387497" duration="10503000" />
+      <workItem from="1557316150103" duration="850000" />
+      <workItem from="1557321903390" duration="176000" />
+      <workItem from="1557404213731" duration="695000" />
+      <workItem from="1557405806174" duration="840000" />
+      <workItem from="1557425451980" duration="695000" />
+      <workItem from="1557472775389" duration="602000" />
+      <workItem from="1557483871942" duration="3576000" />
+      <workItem from="1557923736638" duration="630000" />
+      <workItem from="1557996840721" duration="24000" />
+      <workItem from="1558010028377" duration="1147000" />
+      <workItem from="1558615558300" duration="5573000" />
+      <workItem from="1558660958290" duration="1190000" />
+      <workItem from="1558702374978" duration="3356000" />
+      <workItem from="1558783546737" duration="618000" />
+      <workItem from="1558925417171" duration="1188000" />
+      <workItem from="1558962676999" duration="771000" />
+      <workItem from="1559011431845" duration="1117000" />
+      <workItem from="1559204386917" duration="835000" />
+      <workItem from="1559546802762" duration="646000" />
+      <workItem from="1559636269990" duration="17000" />
+      <workItem from="1559636338944" duration="861000" />
+      <workItem from="1559650042776" duration="47000" />
+      <workItem from="1559736511166" duration="1092000" />
+      <workItem from="1559741261592" duration="1745000" />
+      <workItem from="1560589598492" duration="1898000" />
+      <workItem from="1561712307561" duration="3768000" />
+      <workItem from="1561731258018" duration="1865000" />
+      <workItem from="1562150159316" duration="10068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="284880000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_my_graphs_f1_newer.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Me/clean_gadget.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="vectors" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GraphNNCode$utils_my_graphs_massive.coverage" NAME="utils_my_graphs_massive Coverage Results" MODIFIED="1559011765688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$open_hdf5.coverage" NAME="open_hdf5 Coverage Results" MODIFIED="1556710742709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$converter.coverage" NAME="converter Coverage Results" MODIFIED="1561714918595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_word2vec_vd_multi.coverage" NAME="train_word2vec_vd_multi Coverage Results" MODIFIED="1556627996160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_my_graphs.coverage" NAME="train_my_graphs Coverage Results" MODIFIED="1562155285328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_word2vec.coverage" NAME="train_word2vec Coverage Results" MODIFIED="1557282909677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1558619538206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1559737102984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$read_hdf5.coverage" NAME="read_hdf5 Coverage Results" MODIFIED="1557240525787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$train_word2vec_vd.coverage" NAME="train_word2vec_vd Coverage Results" MODIFIED="1556626837504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNNCode$readCGD.coverage" NAME="readCGD Coverage Results" MODIFIED="1558617245141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 (demo)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GraphNNCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Python 3.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
